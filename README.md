@@ -52,7 +52,7 @@ NYTIMES_API_KEY=your_nytimes_api_key
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/fatimajaved444/Portfolio-MERN.git
+git clone https://github.com/fatimajaved444/BookExplorer.git
 cd BOOKEXPLORER
 ```
 
