@@ -46,3 +46,25 @@ Create a `.env` file inside the `server` folder with your API keys if required:
 PORT=5000
 NYTIMES_API_KEY=your_nytimes_api_key
 ```
+
+
+## Getting Started
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/fatimajaved444/Portfolio-MERN.git
+cd BOOKEXPLORER
+```
+
+### 2. Run Backend
+```bash
+cd server
+npm install
+npm run dev
+```
+### 3. Run Frontend
+```bash
+cd clientt
+npm install
+npm run dev
+```
